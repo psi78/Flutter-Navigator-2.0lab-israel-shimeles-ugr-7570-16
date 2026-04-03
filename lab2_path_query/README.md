@@ -1,16 +1,18 @@
-# lab2_path_query
+# Lab 2: Path Query
 
-A new Flutter project.
+This folder contains the code and screenshots for Lab 2 of Flutter Navigator 2.0 labs.
 
-## Getting Started
+- All screenshots are in the `screenshots/` folder.
+- Widget tree and app running screenshots included.
 
-This project is a starting point for a Flutter application.
+---
 
-A few resources to get you started if this is your first Flutter project:
+## How to Run
 
-- [Lab: Write your first Flutter app](https://docs.flutter.dev/get-started/codelab)
-- [Cookbook: Useful Flutter samples](https://docs.flutter.dev/cookbook)
+1. Open this folder in VS Code or Android Studio.
+2. Run `flutter pub get`.
+3. Run the app on your emulator or device.
 
-For help getting started with Flutter development, view the
-[online documentation](https://docs.flutter.dev/), which offers tutorials,
-samples, guidance on mobile development, and a full API reference.
+---
+
+**Author:** Israel Shimeles (UGR/7570/16)
